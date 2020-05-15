@@ -148,12 +148,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Data.cpp" />
+    <ClCompile Include="DefData.cpp" />
     <ClCompile Include="SortInfo.cpp" />
     <ClCompile Include="Sortings.cpp" />
     <ClCompile Include="VectorSorter.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h" />
+    <ClInclude Include="DefData.h" />
     <ClInclude Include="SortInfo.h" />
     <ClInclude Include="VectorSorter.h" />
   </ItemGroup>
